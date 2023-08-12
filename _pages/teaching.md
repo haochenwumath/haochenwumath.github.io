@@ -15,5 +15,5 @@ table td:first-of-type {
 }
 </style>
 
-| Fall 2023 @ Dartmouth College | Instructor: Calculus 3
+| Fall 2023 | Instructor @ Dartmouth College: Calculus 3 
 | |
