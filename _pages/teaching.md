@@ -8,5 +8,12 @@ nav_order: 5
 ---
 
 ### Teaching Experience ###
-| Fall 2023 | Dartmouth College | Instructor | Calculus 3
+
+<style>
+table td:first-of-type {
+    width: 11em;
+}
+</style>
+
+| Fall 2023 @ Dartmouth College | Instructor: Calculus 3
 | |
