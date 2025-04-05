@@ -18,11 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am a 3rd-year mathematics Ph.D. candidate at Dartmouth College.
-
 
 I am a 4th-year mathematics Ph.D. candidate at Dartmouth College.
 
 
-Office Hours:
-Tuesday, Thursday: 11:00 AM - 12:00 PM
+Office Hours: N/A
