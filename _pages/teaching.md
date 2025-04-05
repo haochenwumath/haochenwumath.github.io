@@ -9,17 +9,12 @@ nav_order: 5
 
 ### Teaching Experience ###
 
-Instructor, Dartmouth College
-<style>
-table td:first-of-type {
-    width: 11em;
-}
-</style>
+#### Instructor, Dartmouth College
 
 | Fall 2024 | Math 8: Calculus of Functions of One and Several Variables |
 | Fall 2023 | Math 3: Calculus |
 
-Teaching Assistant, Dartmouth College
+#### Teaching Assistant, Dartmouth College
 
 | Spring 2023 | Math 13: Calculus of Vector-Valued Functions |
 | Spring 2023 | Math 24: Linear Algebra |
@@ -27,7 +22,7 @@ Teaching Assistant, Dartmouth College
 | Winter 2022 | Math 13: Calculus of Vector-Valued Functions |
 | Fall 2021 |  Math 3: Calculus |
 
-Teaching Assistant, Wake Forest University
+#### Teaching Assistant, Wake Forest University
 
 | Spring 2021 | MTH 121: Linear Algebra |
 | Fall 2020 | MTH 121: Linear Algebra |
