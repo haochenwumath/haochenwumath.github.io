@@ -11,22 +11,27 @@ nav_order: 5
 
 #### Instructor, Dartmouth College
 
-| Fall 2024 | Math 8: Calculus of Functions of One and Several Variables |
-| Fall 2023 | Math 3: Calculus |
+Math 8: Calculus of Functions of One and Several Variables, Fall 2024 
+
+Math 3: Calculus, Fall 2023 
 
 #### Teaching Assistant, Dartmouth College
 
-| Spring 2023 | Math 13: Calculus of Vector-Valued Functions |
-| Spring 2023 | Math 24: Linear Algebra |
-| Fall 2022 | Math 11: Accelerated Multivariable Calculus |
-| Winter 2022 | Math 13: Calculus of Vector-Valued Functions |
-| Fall 2021 |  Math 3: Calculus |
+Math 13: Calculus of Vector-Valued Functions, Spring 2023
+
+Math 24: Linear Algebra, Spring 2023
+
+Math 11: Accelerated Multivariable Calculus, Fall 2022
+
+Math 13: Calculus of Vector-Valued Functions, Winter 2022
+
+Math 3: Calculus, Fall 2021  
 
 #### Teaching Assistant, Wake Forest University
 
-| Spring 2021 | MTH 121: Linear Algebra |
-| Fall 2020 | MTH 121: Linear Algebra |
-| Summer 2020 | MTH 117: Discrete Mathematics |
-| Summer 2020 | MTH 121: Linear Algebra |
-| Spring 2020 | MTH 112: Calculus with Analytic Geometry II |
-| Fall 2019 | MTH 113: Multivariable Calculus |
+MTH 121: Linear Algebra, Spring 2021
+MTH 121: Linear Algebra, Fall 2020
+MTH 117: Discrete Mathematics, Summer 2020
+MTH 121: Linear Algebra, Summer 2020
+MTH 112: Calculus with Analytic Geometry II, Spring 2020
+MTH 113: Multivariable Calculus, Fall 2019 
