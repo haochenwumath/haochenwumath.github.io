@@ -20,11 +20,6 @@ table td:first-of-type {
 | Fall 2023 | Math 3: Calculus |
 
 Teaching Assistant, Dartmouth College
-<style>
-table td:first-of-type {
-    width: 11em;
-}
-</style>
 
 | Spring 2023 | Math 13: Calculus of Vector-Valued Functions |
 | Spring 2023 | Math 24: Linear Algebra |
@@ -33,11 +28,6 @@ table td:first-of-type {
 | Fall 2021 |  Math 3: Calculus |
 
 Teaching Assistant, Wake Forest University
-<style>
-table td:first-of-type {
-    width: 11em;
-}
-</style>
 
 | Spring 2021 | MTH 121: Linear Algebra |
 | Fall 2020 | MTH 121: Linear Algebra |
