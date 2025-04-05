@@ -6,7 +6,7 @@
     "email": "haochen.wu.gr@dartmouth.edu",
     "phone": "",
     "url": "https://haochenwumath.github.io/",
-    "summary": "I am a 3rd-year mathematics Ph.D. candidate at Dartmouth College.",
+    "summary": "I am a 4th-year mathematics Ph.D. candidate at Dartmouth College.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,36 +25,36 @@
    "work": [],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Dartmouth College",
-      "url": "https://home.dartmouth.edu/",
-      "area": "Math",
-      "studyType": "PhD",
-      "startDate": "2021-09-01",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Wake Forest University",
-      "url": "https://www.wfu.edu/",
-      "area": "Math",
-      "studyType": "Master",
-      "startDate": "2019-08-01",
-      "endDate": "2021-05-30",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Wake Forest University",
-      "url": "https://www.wfu.edu/",
-      "area": "Math",
-      "studyType": "Bachelor",
-      "startDate": "2015-08-01",
-      "endDate": "2019-05-30",
-      "score": "",
-      "courses": []
-    }
+  #  {
+  #    "institution": "Dartmouth College",
+  #    "url": "https://home.dartmouth.edu/",
+  #    "area": "Math",
+  #    "studyType": "PhD",
+  #    "startDate": "2021-09-01",
+  #    "endDate": "",
+  #    "score": "",
+  #    "courses": []
+  #  },
+  #  {
+  #    "institution": "Wake Forest University",
+  #    "url": "https://www.wfu.edu/",
+  #    "area": "Math",
+  #    "studyType": "Master",
+  #    "startDate": "2019-08-01",
+  #    "endDate": "2021-05-30",
+  #    "score": "",
+  #    "courses": []
+  #  },
+  #  {
+  #    "institution": "Wake Forest University",
+  #    "url": "https://www.wfu.edu/",
+  #    "area": "Math",
+  #    "studyType": "Bachelor",
+  #    "startDate": "2015-08-01",
+  #    "endDate": "2019-05-30",
+  #    "score": "",
+  #    "courses": []
+  #  }
   ],
   "awards": [],
   "certificates": [],
