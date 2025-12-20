@@ -11,6 +11,8 @@ nav_order: 5
 
 #### Instructor, Dartmouth College
 
+Math 22: Linear Algebra, Fall 2025
+
 Math 8: Calculus of Functions of One and Several Variables, Fall 2024 
 
 Math 3: Calculus, Fall 2023 

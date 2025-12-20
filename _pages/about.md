@@ -24,4 +24,4 @@ I am a 5th-year mathematics Ph.D. candidate at Dartmouth College.
 
 Office Hours: 
 
-Tue Thur 2:15-3:15pm 
+N/A
