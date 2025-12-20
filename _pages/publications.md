@@ -14,7 +14,7 @@ nav_order: 1
 </div>
 
 
-- An orthogonal perspective on Gauss composition, joint with [John Voight](https://jvoight.github.io/research.html), preprint. https://arxiv.org/abs/2511.03987
+- [2511.03987](https://arxiv.org/abs/2511.03987) An orthogonal perspective on Gauss composition, joint with [John Voight](https://jvoight.github.io/research.html), preprint. 
 
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide a discriminant-preserving equivalence of categories between binary quadratic modules and pseudoregular modules over quadratic algebras. This perspective synthesizes the constructions of Kneser and Wood, reconciling algebraic and geometric approaches and clarifying the role of orientations and the natural emergence of narrow class groups. As an application, we restrict to lattices and show that binary orthogonal eigenforms correspond to Hecke characters.
 - Hilbert modular forms from orthogonal modular forms on binary lattices, in preparation.
