@@ -8,10 +8,6 @@ profile:
   align: right
   image: photo.jpg
   image_circular: false
-  address: >
-    <p>214 Kemney Hall</p>
-    <p>27 N Main Street</p>
-    <p>Hanover, NH 03755</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
