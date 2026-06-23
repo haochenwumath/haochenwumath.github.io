@@ -6,8 +6,8 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: # prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: photo.jpg
+  image_circular: false
   address: >
     <p>214 Kemney Hall</p>
     <p>27 N Main Street</p>
