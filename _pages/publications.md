@@ -14,11 +14,11 @@ nav_order: 1
 </div>
 
 
-- [2511.03987](https://arxiv.org/abs/2511.03987) An orthogonal perspective on Gauss composition, joint with [John Voight](https://jvoight.github.io/research.html), preprint. 
+- **An orthogonal perspective on Gauss composition**, joint with [John Voight](https://jvoight.github.io/research.html), preprint available at [2511.03987](https://arxiv.org/abs/2511.03987). 
 
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide an equivalence of stacks between binary quadratic modules and pseudoregular modules over quadratic algebras. As a consequence, we exhibit a composition law for coprimitive forms over a general base, including a universal version of Dirichlet composition. This perspective synthesizes the constructions of Kneser and Wood, reconciles algebraic and geometric approaches, and clarifies the role of orientations and the natural emergence of narrow class groups.
 
-- Gauss composition and orthogonal modular forms on binary lattices, PhD thesis, available <a href="https://digitalcommons.dartmouth.edu/dissertations/523/">here</a>
+- **Gauss composition and orthogonal modular forms on binary lattices**, PhD thesis, available <a href="https://digitalcommons.dartmouth.edu/dissertations/523/">here</a>
 
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide a discriminant-preserving equivalence of categories between binary quadratic modules and pseudoregular modules over quadratic algebras. This perspective synthesizes the constructions of Kneser and Wood, reconciling algebraic and geometric approaches and clarifying the role of orientations and the natural emergence of narrow class groups.
 
