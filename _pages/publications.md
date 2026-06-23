@@ -18,7 +18,7 @@ nav_order: 1
 
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide an equivalence of stacks between binary quadratic modules and pseudoregular modules over quadratic algebras. As a consequence, we exhibit a composition law for coprimitive forms over a general base, including a universal version of Dirichlet composition. This perspective synthesizes the constructions of Kneser and Wood, reconciles algebraic and geometric approaches, and clarifies the role of orientations and the natural emergence of narrow class groups.
 
-- Gauss composition and orthogonal modular forms on binary lattices, PhD thesis, available at <a href="https://digitalcommons.dartmouth.edu/dissertations/523/">[Link](https://digitalcommons.dartmouth.edu/dissertations/523/)</a>
+- Gauss composition and orthogonal modular forms on binary lattices, PhD thesis, available at <a href="https://digitalcommons.dartmouth.edu/dissertations/523/">here</a>
 
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide a discriminant-preserving equivalence of categories between binary quadratic modules and pseudoregular modules over quadratic algebras. This perspective synthesizes the constructions of Kneser and Wood, reconciling algebraic and geometric approaches and clarifying the role of orientations and the natural emergence of narrow class groups.
 
