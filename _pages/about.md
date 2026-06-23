@@ -17,6 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 I will join <a href="https://www.trincoll.edu/">Trinity College</a> as a Visiting Assistant Professor in July 2026. I received my PhD in Mathematics from <a href="https://home.dartmouth.edu/">Dartmouth College</a> in June 2026, where I was advised by <a href="https://jvoight.github.io/">John Voight</a>. Before coming to Dartmouth, I earned both my BS (2019) and MA (2021) in Mathematics from <a href="https://www.wfu.edu/">Wake Forest University</a> under the supervison of <a href="https://users.wfu.edu/rouseja/">Jeremy Rouse</a>. I also complete a minor in Music during my undergraduate studies. 
 
+CV CV_Haochen_Wu.pdf
 Email: haochen.wu@trincoll.edu
 
 Address: TBD
