@@ -19,7 +19,7 @@ I will join <a href="https://www.trincoll.edu/">Trinity College</a> as a Visitin
 
 <a href="/assets/pdf/CV_Haochen_Wu.pdf" target="_blank" rel="noopener">CV</a>
 
-Email: haochen.wu@trincoll.edu
+Email: haochen.wu.math@gmail.com; haochen.wu@trincoll.edu
 
 Address: TBD
 
