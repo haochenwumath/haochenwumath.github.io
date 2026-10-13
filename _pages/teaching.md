@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+#### Instructor, Trinity College
+
+Math 127: Precalculus, Fall 2026
+
+Math 131: Calculus 1, Fall 2026 
 
 #### Instructor, Dartmouth College
 
