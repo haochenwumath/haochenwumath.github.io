@@ -23,3 +23,7 @@ We revisit Gauss composition over a general base scheme, with a focus on orthogo
 We revisit Gauss composition over a general base scheme, with a focus on orthogonal groups. We show that the Clifford and norm functors provide a discriminant-preserving equivalence of categories between binary quadratic modules and pseudoregular modules over quadratic algebras. This perspective synthesizes the constructions of Kneser and Wood, reconciling algebraic and geometric approaches and clarifying the role of orientations and the natural emergence of narrow class groups.
 
 As an application, we restrict to lattices and show that binary orthogonal eigenforms correspond to Hecke characters. Using theta series, we show the explicit connection between Hilbert modular forms and orthogonal modular forms arising from positive definite binary lattices over the ring of integers of a totally real number field.
+
+- **On the number of representations by positive-definite integer-valued quaternary quadratic forms**, Master thesis, <a href="https://wakespace.lib.wfu.edu/items/749210ec-52cf-4e88-b2ca-194311ec0599">here</a>
+
+Let {Q_1, Q_2, . . . , Q_s} be a finite set of positive-definite integer-valued quaternary quadratic forms. We show that there exists a primitive positive-definite integer-valued quaternary quadratic form Q and a positive integer n such that Q represents n more times than Q_i for all 1 ≤ i ≤ s. 
